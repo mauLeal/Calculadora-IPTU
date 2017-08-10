@@ -1,6 +1,6 @@
-package br.com.mauricio.exCalculadoraIptu.Abstract;
+package br.com.mauricio.exCalculadoraIptu.util;
 
-public abstract class Territorial {
+public class Territorial {
 	public final Double PRIMEIRA_ALIQUOTA = 1d;
 	public final Double SEGUNDA_ALIQUOTA = 1.6;
 	public final Double TERCEIRA_ALIQUOTA = 2d;

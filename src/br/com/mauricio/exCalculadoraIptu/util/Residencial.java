@@ -1,6 +1,6 @@
-package br.com.mauricio.exCalculadoraIptu.Abstract;
+package br.com.mauricio.exCalculadoraIptu.util;
 
-public abstract class Residencial {
+public class Residencial {
 	public final Double PRIMEIRA_ALIQUOTA = 0.6d;
 	public final Double SEGUNDA_ALIQUOTA = 0.7d;
 	public final Double TERCEIRA_ALIQUOTA = 0.75d;
