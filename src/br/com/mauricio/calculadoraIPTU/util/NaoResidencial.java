@@ -1,4 +1,4 @@
-package br.com.mauricio.exCalculadoraIptu.util;
+package br.com.mauricio.calculadoraIPTU.util;
 
 public class NaoResidencial {
 	public final Double PRIMEIRA_ALIQUOTA = 1.2d;

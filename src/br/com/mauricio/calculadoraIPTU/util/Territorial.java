@@ -1,4 +1,4 @@
-package br.com.mauricio.exCalculadoraIptu.util;
+package br.com.mauricio.calculadoraIPTU.util;
 
 public class Territorial {
 	public final Double PRIMEIRA_ALIQUOTA = 1d;
