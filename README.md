@@ -1,2 +1,2 @@
-# calculadora-IPTU
+# calculadora-iptu
 *junit
